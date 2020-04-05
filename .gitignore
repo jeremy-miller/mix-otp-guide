@@ -21,3 +21,4 @@ erl_crash.dump
 
 .tool-versions
 .elixir_ls/
+rel/
